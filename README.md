@@ -1,0 +1,1 @@
+Threshold plot for toric code with Z errors and X(site) checks with perfect syndrome measurement. A ~10.3% threshold is visible on the sweep of physical error rate between 1% to 20%. Logical error rate at threshold is ~30%.
