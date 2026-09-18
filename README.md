@@ -12,7 +12,7 @@ homologically non-trivial cycle, detected by comparing its parities
 against the two logical representatives.
 
 **Result.** Sweeping p ∈ [0.01, 0.20] at L = 4, 8, 12 with 10000 shots
-each, the curves cross at p ~ 10%.
+each, the curves cross at p ~ 10%. The accuracy threshold is defined as the critical value of physical error rate p where logical error rate starts to grow with L instead of falling exponentially. This is why, the crossing point is the threshold. 
 
 **Caveat.** This is the MWPM threshold, not the optimal one. Matching
 returns the single most likely error chain, whereas maximum-likelihood
